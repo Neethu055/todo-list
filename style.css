@@ -1,0 +1,13 @@
+body{
+background:#f4f6f9;
+}
+
+.completed{
+text-decoration: line-through;
+color: gray;
+}
+
+.card{
+max-width:500px;
+margin:auto;
+}
